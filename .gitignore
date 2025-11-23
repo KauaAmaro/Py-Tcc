@@ -1,0 +1,46 @@
+# Pastas de build/distribuição (NÃO DEVEM estar no Git)
+dist/
+build/
+*.spec
+
+# Ambientes virtuais
+venv/
+env/
+.env
+.venv/
+
+# Arquivos de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.ipynb_checkpoints
+
+# Logs e bancos de dados locais
+*.log
+*.sqlite3
+*.db
+
+# Arquivos de IDE / editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+/.project
+/.pydevproject
+
+# Segredos e configurações locais
+*.env
+config.ini
+secrets.json
+
+# Outros arquivos grandes ou gerados
+*.exe
+*.pkg
+*.dmg
+*.msi
+*.zip
+*.tar.gz
+dist/
+build/
