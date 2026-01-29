@@ -1,6 +1,6 @@
 # Leitor de Códigos de Barras
 
-Aplicativo desktop para leitura de códigos de barras via câmera IP com interface gráfica e banco de dados local.
+Aplicativo desktop para leitura de códigos de barras via câmera  com interface gráfica e banco de dados local.
 
 ## Funcionalidades
 
